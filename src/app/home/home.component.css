@@ -1,0 +1,67 @@
+.mainn-div{
+    background-color: rgb(245,245,245);
+    /* background-color: rebeccapurple; */
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+    padding-left: 9%;;
+    font-family: Arial, Helvetica, sans-serif;
+    /* height: 100%; */
+}
+.first-div h1{
+    color: rgb(55,71,79);
+    /* font-family: Arial, Helvetica, sans-serif; */
+    font-size: 51px;
+    font-weight: 700;
+    /* margin-top: 30px; */
+}
+.first-subdiv{
+    display: flex;
+    align-items: center;
+}
+.first-subdiv img{
+    height: 40px;
+    width: 50px;
+}
+.first-subdiv p{
+    color:RGB(55, 71, 79) ;
+    font-size: 19.2px;
+    font-weight: 400;
+    padding-left: 5px;
+}
+.first-div button{
+    width: 190px;
+    height: 45px;
+    border-radius: 30px;
+    border: none;
+    color: white;
+    margin-top: 25px;
+    background: linear-gradient(to right, rgb(3, 165, 240), rgb(2, 140, 213));
+    /* background-color: ; */
+}
+
+
+
+.second-div img{
+    height: 600px;
+    margin-top:40px;
+    margin-left: 100px;
+}
+
+
+.third-div{
+    margin-left: 120px;
+}
+.third-div img{
+    height: 80px;
+   
+}
+.third-div p{
+    color: RGB(55, 71, 79);
+    font-size: 16px;
+    font-weight: 400;
+    margin-top: 35px;
+}
+.img2{
+    margin-top: 30px;
+}

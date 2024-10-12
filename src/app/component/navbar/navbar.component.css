@@ -1,0 +1,35 @@
+.main-div {
+    background-color: rgb(255,255,255);
+    /* background-color: rebeccapurple; */
+    width: 100vw;
+    height: 30%;
+    display: flex;
+    align-items: center;
+    padding-top: 15px;
+}
+
+.main-div img {
+    height: 50px;
+    margin-left: 9%;
+    cursor: pointer;
+}
+
+.material-symbols-outlined {
+    font-variation-settings:
+        'FILL' 0,
+        'wght' 400,
+        'GRAD' 0,
+        'opsz' 24
+}
+#search{
+    margin-left: 63%;
+    font-size: 30px;
+    color: rgb(127,137,143);
+
+}
+#menu{
+    margin-left: 1%;
+    font-size: 35px;
+    color: rgb(127,137,143);
+
+}
